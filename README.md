@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BLACKBlade-Advanced Java Project app development in Kotlin
+- 👋 Hi, I’m @BLACKBlade-Working in Advanced Java Project and app development in Kotlin
 - 👀 I’m interested in Java project, app devlopment and in new technologies
 - 🌱 I’m currently learning advanced java
 - 💞️ I’m looking to collaborate on open sourse project
